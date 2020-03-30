@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CursorHW_16/static/css/main.4bce9e31.chunk.css",
+    "main.css": "/CursorHW_16/static/css/main.fa4a1940.chunk.css",
     "main.js": "/CursorHW_16/static/js/main.ac753109.chunk.js",
     "main.js.map": "/CursorHW_16/static/js/main.ac753109.chunk.js.map",
     "runtime-main.js": "/CursorHW_16/static/js/runtime-main.750b2573.js",
@@ -8,15 +8,15 @@
     "static/js/2.ea20aca4.chunk.js": "/CursorHW_16/static/js/2.ea20aca4.chunk.js",
     "static/js/2.ea20aca4.chunk.js.map": "/CursorHW_16/static/js/2.ea20aca4.chunk.js.map",
     "index.html": "/CursorHW_16/index.html",
-    "precache-manifest.69e2b747e044ad0e094309f7678c1e9a.js": "/CursorHW_16/precache-manifest.69e2b747e044ad0e094309f7678c1e9a.js",
+    "precache-manifest.f8c61d84f9a45cde47257b4a1c3e2754.js": "/CursorHW_16/precache-manifest.f8c61d84f9a45cde47257b4a1c3e2754.js",
     "service-worker.js": "/CursorHW_16/service-worker.js",
-    "static/css/main.4bce9e31.chunk.css.map": "/CursorHW_16/static/css/main.4bce9e31.chunk.css.map",
+    "static/css/main.fa4a1940.chunk.css.map": "/CursorHW_16/static/css/main.fa4a1940.chunk.css.map",
     "static/js/2.ea20aca4.chunk.js.LICENSE.txt": "/CursorHW_16/static/js/2.ea20aca4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.750b2573.js",
     "static/js/2.ea20aca4.chunk.js",
-    "static/css/main.4bce9e31.chunk.css",
+    "static/css/main.fa4a1940.chunk.css",
     "static/js/main.ac753109.chunk.js"
   ]
 }
