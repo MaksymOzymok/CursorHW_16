@@ -10,3 +10,8 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
+@media only screen and (max-width: 770px)  {
+    .contacts-app{
+        width:60%
+    }
+}
