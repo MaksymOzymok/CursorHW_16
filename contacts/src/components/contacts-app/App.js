@@ -117,7 +117,8 @@ export default  class App extends Component {
             console.log('unknowns');
             unknowns = items.filter((item)=>!Object.keys(item).includes('gender'));
         }
-            return [...mans,...womans,...unknowns];
+        let k = new Set([...mans,...womans,...unknowns]);
+            return Array.from(k);
         };
 
     render() {
